@@ -1,0 +1,13 @@
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\bin\Debug\AppAutorizadorAD.exe.config
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\bin\Debug\AppAutorizadorAD.exe
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\bin\Debug\AppAutorizadorAD.pdb
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\obj\Debug\AppAutorizadorAD.csprojResolveAssemblyReference.cache
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\obj\Debug\AppAutorizadorAD.Form1.resources
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\obj\Debug\AppAutorizadorAD.Properties.Resources.resources
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\obj\Debug\AppAutorizadorAD.csproj.GenerateResource.Cache
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\obj\Debug\AppAutorizadorAD.exe
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\obj\Debug\AppAutorizadorAD.pdb
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\bin\Debug\AppAutorizadorAD.exe.manifest
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\bin\Debug\AppAutorizadorAD.application
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\obj\Debug\AppAutorizadorAD.exe.manifest
+C:\Projetos C#\vs2015\AppAutorizadorAD\AppAutorizadorAD\obj\Debug\AppAutorizadorAD.application
